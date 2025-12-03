@@ -19,8 +19,8 @@ En este caso se ha creado un script que permite ver los sensores disponibles en 
 
 Al hacer debug de los sensores disponibles en el dispositivo, se pueden observar los siguientes:
 
-![Lista Sensores](lista_sensores.png)
-![Lista Sensores](lista_sensores-1.png)
+![Lista Sensores](Resources/lista_sensores.png)
+![Lista Sensores](Resources/lista_sensores-1.png)
 
 Por lo tanto, se han implementado los siguientes sensores en la aplicación:
 
@@ -40,7 +40,7 @@ A continuación se comparan los valores obtenidos en dos entornos con caracterí
 
 1. **Laboratorio:** Entorno interior controlado, luz artificial, posibles interferencias magnéticas.
 
-![Mediciones Laboratorio](sensores-laboratorio.jpg)
+![Mediciones Laboratorio](Resources/sensores-laboratorio.jpg)
 
 | Sensor | Valor | Unidad |
 | :--- | :--- | :--- |
@@ -56,7 +56,7 @@ A continuación se comparan los valores obtenidos en dos entornos con caracterí
 
 2. **Jardín:** Entorno exterior, luz natural, campo magnético terrestre más limpio.
 
-![Mediciones Jardín](sensores-jardin.jpg)
+![Mediciones Jardín](Resources/sensores-jardin.jpg)
 
 | Sensor | Valor | Unidad |
 | :--- | :--- | :--- |
